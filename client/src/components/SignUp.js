@@ -148,7 +148,7 @@ const SignUp = props => {
     <StyledSignUp>
       <nav>
         <a
-          href="https://www.google.com/"
+          href="https://bw-foodie-fun2.github.io/UI/index.html"
           target="_blank"
           rel="noopener noreferrer"
           alt="Homepage"
